@@ -8,7 +8,7 @@
 
 Quick start options:
 
-- Clone the repo: `git clone https://github.com/creativetimofficial/black-dashboard-react.git`.
+- Clone the repo: `https://github.com/jogamod/black-dashboard-react-w-redux.git`.
 
 
 ## Documentation
